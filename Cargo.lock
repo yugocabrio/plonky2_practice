@@ -369,6 +369,7 @@ dependencies = [
 name = "plonky2_practice"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "plonky2",
 ]
 
